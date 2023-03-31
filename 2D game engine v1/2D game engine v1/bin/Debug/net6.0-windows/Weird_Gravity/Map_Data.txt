@@ -1,0 +1,16 @@
+Map
+{
+~GravityX=2
+~GravityY=-5.81
+~Air_Density=1.225
+}
+
+Images
+{
+~Background=Default_Background.bmp
+~Ground=Ground.png
+~Material_1=Wood.bmp
+~Material_2=Stone.bmp
+~Material_3=Metal.bmp
+}
+
