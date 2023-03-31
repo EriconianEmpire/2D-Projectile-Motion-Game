@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\Temp_Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\Temp_Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\Temp_Client.csproj",
+        "projectName": "Temp_Client",
+        "projectPath": "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\Temp_Client.csproj",
+        "packagesPath": "C:\\Users\\timsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\timsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "websocketsharp.core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

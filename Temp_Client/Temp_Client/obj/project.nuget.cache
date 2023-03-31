@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qR7EPPEZLFce9fSi2gFN3U1tPvqY7C7/+kbTdy3hmm6+cpa1MbdLvgHXobhFQ7dzmtEpJYrVV9gUJweSMSuCqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timsi\\OneDrive - South Devon College\\Computer science\\A Level Project\\Temp_Client\\Temp_Client\\Temp_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timsi\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
